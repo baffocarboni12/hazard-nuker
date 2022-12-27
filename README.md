@@ -190,3 +190,4 @@ Created by Rdimo#6969 | https://cheataway.com
 |⚠️・Hazard Nuker was made for educational purposes・⚠️|
 |-------------------------------------------------|
 By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
+
